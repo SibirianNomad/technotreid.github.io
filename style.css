@@ -368,7 +368,6 @@ input,textarea{
 }
 .content{
 	overflow:hidden;
-	height: 100vh;
 }
 .b-block_content-left{
 	height:100vh;
@@ -390,7 +389,7 @@ input,textarea{
 	margin:0;
 	display: inline-block;
 	width: calc(100% - 661px);
-	height: 100vh;
+	
 
 }
 .content-left_title{
