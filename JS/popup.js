@@ -29,11 +29,3 @@
 
 	});
 
-
-	/*$.fancybox.open({
-src : '#popup1',
-type : 'inline',
-opts : {
-touch : false
-}
-});*/
